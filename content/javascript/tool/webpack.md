@@ -163,5 +163,4 @@ Run the server.
 npm run start
 ```
 
-Visit [Here](http://localhost:8080/index.html) to see the page in action.
-
+I hope this article will help you to get started with webpack.
