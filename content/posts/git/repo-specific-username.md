@@ -1,10 +1,10 @@
 ---
 title: "Git - Set repository specific config"
-date: 2022-02-08T14:32:51+05:30
-draft: true
+date: 2022-02-09T14:32:51+05:30
+draft: false
 ---
 
-For git generally its good idea to set up repo specify username and email. Here is how you can do it.
+Generally, for git, its good idea to set up repository specify username and email. Here is how you can do it.
 
 ```shell
  git config user.email "<your email id>"
