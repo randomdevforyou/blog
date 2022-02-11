@@ -53,7 +53,7 @@ And start the server
 npm run start
 ```
 
-Go to [http://localhost:8080/](http://localhost:8080/) and you should see your component rendered.
+Go to [http://localhost:8080](http://localhost:8080) and you should see your component rendered.
 
 
 
