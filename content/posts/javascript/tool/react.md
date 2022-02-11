@@ -4,7 +4,7 @@ date: 2022-02-10T14:32:51+05:30
 draft: false
 ---
 
- In this article we will see how to do basic react setup. We will be using webpack for bundling the client code. Please see [article](/posts/javascript/tool/webpack/) to set up webpack.
+ In this article we will see how to do basic react setup. We will be using webpack for bundling the client code. Please see [article](/posts/javascript/tool/webpack/) to set up webpack. You can download webpack-starter repo from [here](https://github.com/randomdevforyou/webpack-starter)
 
  Firsly we will be installing ***react*** and ***react-dom*** as dev dependencies.
 
@@ -55,7 +55,7 @@ npm run start
 
 Go to [http://localhost:8080](http://localhost:8080) and you should see your component rendered.
 
-
+See the code [here](https://github.com/randomdevforyou/react-starter)
 
 
 
