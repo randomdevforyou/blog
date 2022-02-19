@@ -118,7 +118,7 @@ npm run start
 
 Go to [http://localhost:8080](http://localhost:8080) and you should see your component rendered.
 
-See the code [here](https://github.com/randomdevforyou/webpack-react-babel-starter)
+See the code [here](https://github.com/randomdevforyou/webpack-react-babel)
 
 
 
