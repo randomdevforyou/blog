@@ -1,6 +1,6 @@
  ---
 title: "Webpack + react + babel"
-date: 2022-02-10T14:32:51+05:30
+date: 2022-02-19T14:32:51+05:30
 draft: false
 ---
 
