@@ -1,7 +1,7 @@
  ---
 title: "How to concat strings in splunk"
 date: 2023-01-03T14:32:51+05:30
-draft: true
+draft: false
 ---
 
 While using splunk we need to concat two fields to create a new field. We can use ***strcat*** function for the same.

@@ -1,7 +1,7 @@
  ---
 title: "How to append query params in url"
 date: 2023-01-03T14:32:51+05:30
-draft: true
+draft: false
 ---
 
 We can use plain javascript to append query params to an url.
